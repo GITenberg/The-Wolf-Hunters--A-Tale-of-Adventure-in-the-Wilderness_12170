@@ -1,0 +1,40 @@
+_repo: The-Wolf-Hunters--A-Tale-of-Adventure-in-the-Wilderness_12170
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wolves -- Fiction'
+- !lcsh 'Wolf hunting -- Fiction'
+- !lcsh 'Wilderness survival -- Fiction'
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Hunters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Wolf Hunters: A Tale of Adventure in the Wilderness'
+url: http://www.gutenberg.org/ebooks/12170
